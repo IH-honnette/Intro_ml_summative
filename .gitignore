@@ -9,3 +9,5 @@ for_google_drive/
 .ipynb_checkpoints/
 __pycache__/
 .DS_Store
+config.bat
+node_modules
