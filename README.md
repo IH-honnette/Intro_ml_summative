@@ -8,10 +8,10 @@ transfer on **Rwanda**. Traditional machine learning (scikit-learn) and deep lea
 
 | Resource | Link |
 |---|---|
-| Report (IEEE format) | _link to be added_ |
-| Google Drive folder (raw data zip + model weights) | _link to be added_ |
+| Report: https://docs.google.com/document/d/1dpqUZBlZu7pNKXzpeVLMPzX1SvohW3l5bb2XyopgHJc/edit?tab=t.0
+| Google Drive folder: https://drive.google.com/drive/u/3/folders/14FgFhuDFQENEMx3xEksdaqpxxRA4xvU9
 | Video presentation | _link to be added_ |
-| Open the notebook in Colab | _replace `<user>/<repo>`_: `https://colab.research.google.com/github/<user>/<repo>/blob/main/water_point_functionality.ipynb` |
+| Open the notebook in Colab: https://colab.research.google.com/drive/1IHv_NzVnCxRwanLZ1Hmr_Hzb1lS0fQGL
 
 ## Problem
 
