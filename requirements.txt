@@ -1,0 +1,13 @@
+# Python 3.10+ (developed and executed with Python 3.13; Google Colab works out of the box)
+# Minimum versions are the oldest that provide every API the notebook uses.
+# Exact versions used for the reported results are listed in README.md.
+numpy>=1.26
+pandas>=2.2,<3.0
+scipy>=1.11
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+tensorflow>=2.16
+tensorboard>=2.16
+matplotlib>=3.8
+joblib>=1.3
+jupyter>=1.0

@@ -1,0 +1,11 @@
+# Raw data and model weights are shared through Google Drive, never committed
+data/
+models/
+report/
+for_google_drive/
+*.zip
+*.joblib
+*.keras
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
